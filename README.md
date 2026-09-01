@@ -38,6 +38,9 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [hash-avalanche-explorer](hash-avalanche-explorer/) — cambia un solo carattere in un testo e guarda il suo hash SHA-256 diventare completamente diverso.
 - [diffie-hellman-explorer](diffie-hellman-explorer/) — come due persone si accordano su un segreto condiviso comunicando solo in chiaro, davanti a chiunque le stia ascoltando.
 - [public-key-cryptography-explorer](public-key-cryptography-explorer/) — come chiudere un messaggio in modo che solo una persona precisa possa aprirlo — e come funziona una firma digitale.
+- [two-factor-auth-explorer](two-factor-auth-explorer/) — un vero generatore di codici usa e getta (TOTP), calcolato nel browser con lo stesso algoritmo delle app di autenticazione.
+- [blockchain-explorer](blockchain-explorer/) — perché modificare un solo blocco nel passato "rompe" tutta la catena che viene dopo.
+- [ip-subnetting-explorer](ip-subnetting-explorer/) — come un indirizzo IP si divide in una parte "di rete" e una "di host" — e cosa significa scrivere /24.
 - [password-strength-simulator](password-strength-simulator/) — cosa rende davvero difficile indovinare una password — e cosa, sorprendentemente, non basta.
 
 ### 🔢 Logica
