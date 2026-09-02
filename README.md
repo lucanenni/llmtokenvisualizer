@@ -32,6 +32,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [huffman-coding-explorer](huffman-coding-explorer/) — perché dare codici più corti alle lettere più frequenti fa risparmiare spazio, senza perdere nemmeno un bit.
 - [cones-rods-explorer](cones-rods-explorer/) — perché bastano tre colori per ingannare l'occhio umano — un pixel non riproduce mai la luce vera.
 - [color-palette-explorer](color-palette-explorer/) — come si costruiscono combinazioni di colori che stanno bene insieme — e come si verifica se sono leggibili.
+- [qr-barcode-explorer](qr-barcode-explorer/) — come si impacchetta del testo in barre o quadratini — e la differenza tra rilevare un errore e correggerlo.
 
 ### 🌐 Reti e sicurezza
 
