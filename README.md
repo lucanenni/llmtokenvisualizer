@@ -64,6 +64,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 ### 🖥️ Hardware
 
 - [pc-assembly-simulator](pc-assembly-simulator/) — monta e smonta virtualmente un PC, componente per componente, con stile schematico/realistico e una modalità quiz.
+- [pascalina-simulator](pascalina-simulator/) — nel 1642 una macchina sommava girando ruote dentate: guarda scattare il riporto quando una ruota passa da 9 a 0.
 
 ### 🧮 Algoritmi
 
