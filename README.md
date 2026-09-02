@@ -68,6 +68,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [pathfinding-visualizer](pathfinding-visualizer/) — disegna dei muri su una griglia e guarda BFS e DFS esplorarla alla ricerca di un percorso.
 - [recursion-tree-visualizer](recursion-tree-visualizer/) — guarda una funzione ricorsiva (fattoriale, Fibonacci) scomporsi in chiamate più piccole, un passo alla volta.
 - [complexity-growth-explorer](complexity-growth-explorer/) — sei classi di complessità a confronto, da O(1) a O(2ⁿ), e perché la differenza conta moltissimo.
+- [game-of-life-explorer](game-of-life-explorer/) — quattro regole semplicissime, applicate a milioni di celle, bastano a generare comportamenti complessi.
 
 ### 🗂️ Strutture dati
 
