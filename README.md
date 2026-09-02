@@ -31,6 +31,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [baudot-code-explorer](baudot-code-explorer/) — come si scriveva testo con soli 5 bit, prima di ASCII e Unicode: il codice dei vecchi telescriventi.
 - [huffman-coding-explorer](huffman-coding-explorer/) — perché dare codici più corti alle lettere più frequenti fa risparmiare spazio, senza perdere nemmeno un bit.
 - [cones-rods-explorer](cones-rods-explorer/) — perché bastano tre colori per ingannare l'occhio umano — un pixel non riproduce mai la luce vera.
+- [color-palette-explorer](color-palette-explorer/) — come si costruiscono combinazioni di colori che stanno bene insieme — e come si verifica se sono leggibili.
 
 ### 🌐 Reti e sicurezza
 
