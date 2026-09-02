@@ -76,6 +76,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [recursion-tree-visualizer](recursion-tree-visualizer/) — guarda una funzione ricorsiva (fattoriale, Fibonacci) scomporsi in chiamate più piccole, un passo alla volta.
 - [complexity-growth-explorer](complexity-growth-explorer/) — sei classi di complessità a confronto, da O(1) a O(2ⁿ), e perché la differenza conta moltissimo.
 - [game-of-life-explorer](game-of-life-explorer/) — quattro regole semplicissime, applicate a milioni di celle, bastano a generare comportamenti complessi.
+- [dijkstra-shortest-path-explorer](dijkstra-shortest-path-explorer/) — erba, fango, acqua, muri: guarda l'algoritmo trovare sempre il percorso di costo totale più basso, non quello con meno passi.
 
 ### 🗂️ Strutture dati
 
