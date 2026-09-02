@@ -75,6 +75,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [stack-queue-visualizer](stack-queue-visualizer/) — due modi diversi di accumulare ed estrarre elementi: chi esce per primo, l'ultimo arrivato o il primo?
 - [binary-search-tree-visualizer](binary-search-tree-visualizer/) — inserisci numeri e guarda una struttura che tiene tutto ordinato e permette di cercare senza controllare ogni elemento.
 - [hash-table-visualizer](hash-table-visualizer/) — come trovare un dato in un colpo solo, quasi sempre — e cosa succede quando due chiavi diverse finiscono nello stesso posto.
+- [git-branching-explorer](git-branching-explorer/) — il grafo dei commit, un branch alla volta: cosa succede davvero con commit, branch, checkout e merge.
 
 ## Come contribuire un nuovo progetto
 
