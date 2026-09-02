@@ -52,6 +52,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [backup-strategy-explorer](backup-strategy-explorer/) — quanto spazio serve, e quanto costa ripristinare, con tre modi diversi di fare backup — con numeri veri.
 - [session-token-auth-explorer](session-token-auth-explorer/) — come un sito "si ricorda" che hai fatto login — sessioni con cookie contro token firmati.
 - [simplified-des-explorer](simplified-des-explorer/) — la struttura del vero DES — permutazioni, S-box, round Feistel — su un solo byte: seguila passo dopo passo.
+- [tls-handshake-explorer](tls-handshake-explorer/) — la sequenza reale dei messaggi che aprono un canale https://, con un vero scambio di chiavi ECDHE e una vera cifratura finale.
 - [password-strength-simulator](password-strength-simulator/) — cosa rende davvero difficile indovinare una password — e cosa, sorprendentemente, non basta.
 
 ### 🔢 Logica
