@@ -51,6 +51,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [malware-types-explorer](malware-types-explorer/) — non tutto il software dannoso funziona allo stesso modo — e come fa un antivirus a riconoscerlo.
 - [backup-strategy-explorer](backup-strategy-explorer/) — quanto spazio serve, e quanto costa ripristinare, con tre modi diversi di fare backup — con numeri veri.
 - [session-token-auth-explorer](session-token-auth-explorer/) — come un sito "si ricorda" che hai fatto login — sessioni con cookie contro token firmati.
+- [simplified-des-explorer](simplified-des-explorer/) — la struttura del vero DES — permutazioni, S-box, round Feistel — su un solo byte: seguila passo dopo passo.
 - [password-strength-simulator](password-strength-simulator/) — cosa rende davvero difficile indovinare una password — e cosa, sorprendentemente, non basta.
 
 ### 🔢 Logica
