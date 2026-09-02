@@ -112,7 +112,13 @@ function render() {
         const col = document.createElement('div');
         col.className = 'cover-column';
         const hue = (i * 47) % 360;
-        [...b.code].forEach(bit => {
+        // Il valore del codice (b.code) resta quello standard ITA2, letto
+        // "bit1...bit5"; ma sulla copertina reale la colonna si legge
+        // dall'alto verso il basso nell'ordine OPPOSTO (bit5 in cima) — lo
+        // si nota confrontando fonti esterne sulla decodifica della
+        // copertina, che riportano X come 10111 letto dall'alto anziché
+        // 11101: i due sono lo stesso codice, letto in direzione opposta.
+        [...b.code].reverse().forEach(bit => {
             const block = document.createElement('div');
             block.className = 'cover-block' + (bit === '1' ? ' on' : '');
             if (bit === '1') block.style.background = `hsl(${hue}, 70%, 55%)`;
@@ -120,7 +126,8 @@ function render() {
         });
         const label = document.createElement('div');
         label.className = 'cover-column-label';
-        label.textContent = reveal ? `${b.char}\n${b.code}` : '';
+        const readTopToBottom = [...b.code].reverse().join('');
+        label.textContent = reveal ? `${b.char}\n${readTopToBottom}` : '';
         label.style.whiteSpace = 'pre-line';
         col.appendChild(label);
         box.appendChild(col);
