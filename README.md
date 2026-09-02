@@ -46,6 +46,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [blockchain-explorer](blockchain-explorer/) — perché modificare un solo blocco nel passato "rompe" tutta la catena che viene dopo.
 - [ip-subnetting-explorer](ip-subnetting-explorer/) — come un indirizzo IP si divide in una parte "di rete" e una "di host" — e cosa significa scrivere /24.
 - [malware-types-explorer](malware-types-explorer/) — non tutto il software dannoso funziona allo stesso modo — e come fa un antivirus a riconoscerlo.
+- [backup-strategy-explorer](backup-strategy-explorer/) — quanto spazio serve, e quanto costa ripristinare, con tre modi diversi di fare backup — con numeri veri.
 - [password-strength-simulator](password-strength-simulator/) — cosa rende davvero difficile indovinare una password — e cosa, sorprendentemente, non basta.
 
 ### 🔢 Logica
