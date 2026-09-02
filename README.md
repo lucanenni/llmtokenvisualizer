@@ -36,6 +36,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [baudot-album-cover-explorer](baudot-album-cover-explorer/) — un vero easter egg discografico: la copertina di X&Y dei Coldplay traduce il titolo in blocchi colorati col codice Baudot.
 - [image-resolution-explorer](image-resolution-explorer/) — da un'immagine di oggi fino alle vecchie schede grafiche dei primi PC — quanti pixel e colori servono davvero.
 - [ieee754-explorer](ieee754-explorer/) — come 32 bit rappresentano sia numeri minuscoli sia enormi — al prezzo di non poter essere sempre esatti.
+- [compression-comparison-explorer](compression-comparison-explorer/) — tre modi di comprimere lo stesso testo, ognuno bravo a sfruttare un tipo diverso di ripetizione.
 
 ### 🌐 Reti e sicurezza
 
