@@ -61,6 +61,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [binary-adder-simulator](binary-adder-simulator/) — come poche porte logiche, messe insieme, riescono a fare un'addizione — un bit alla volta.
 - [regex-automaton-explorer](regex-automaton-explorer/) — dietro ogni espressione regolare c'è un vero automa a stati: guardalo "pensare" un carattere alla volta.
 - [turing-machine-explorer](turing-machine-explorer/) — un nastro, una testina e una tabella di regole: il modello con cui si definisce cosa significa "calcolabile".
+- [karnaugh-map-explorer](karnaugh-map-explorer/) — clicca una tabella di verità e guarda un'espressione booleana minimizzarsi dal vivo, con i raggruppamenti colorati sulla mappa.
 
 ### 🖥️ Hardware
 
