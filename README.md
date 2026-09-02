@@ -66,6 +66,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 
 - [pc-assembly-simulator](pc-assembly-simulator/) — monta e smonta virtualmente un PC, componente per componente, con stile schematico/realistico e una modalità quiz.
 - [pascalina-simulator](pascalina-simulator/) — nel 1642 una macchina sommava girando ruote dentate: guarda scattare il riporto quando una ruota passa da 9 a 0.
+- [cpu-cycle-explorer](cpu-cycle-explorer/) — una CPU giocattolo esegue davvero un programma, fase per fase: preleva l'istruzione, capisce cosa significa, ne esegue l'effetto.
 
 ### 🧮 Algoritmi
 
