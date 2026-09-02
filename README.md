@@ -4,7 +4,7 @@ Una raccolta di piccoli progetti didattici, pensati per spiegare concetti di inf
 
 🔗 **Indice online (GitHub Pages):** https://lucanenni.github.io/cs-and-ict-teaching-materials/
 
-L'indice online è organizzato per argomento: la home page mostra le categorie, ciascuna con una propria sotto-pagina in [topics/](topics/) che elenca i progetti corrispondenti. Qui sotto trovi l'elenco completo, piatto, per riferimento rapido.
+L'indice online è organizzato per argomento: la home page mostra le categorie, ciascuna con una propria sotto-pagina in [topics/](topics/) che elenca i progetti corrispondenti (le categorie più numerose sono a loro volta divise in sotto-argomenti). Qui sotto trovi l'elenco completo, piatto, per riferimento rapido.
 
 ## Progetti
 
@@ -94,7 +94,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 1. Crea una nuova sottocartella con un nome descrittivo in kebab-case (es. `nome-progetto/`).
 2. Aggiungi al suo interno un `README.md` che spieghi cosa fa il progetto, come avviarlo e quali concetti didattici illustra.
 3. Aggiungi una riga nell'elenco "Progetti" qui sopra, sotto l'argomento giusto (o creane uno nuovo se non esiste ancora).
-4. Aggiungi una card corrispondente nella pagina dell'argomento in [topics/](topics/) (o crea una nuova pagina argomento + una card per essa in [index.html](index.html), se il progetto apre un argomento nuovo).
+4. Aggiungi una card corrispondente nella pagina dell'argomento (o del sotto-argomento, per le categorie divise) in [topics/](topics/) e aggiorna il conteggio progetti nella pagina padre — o crea una nuova pagina argomento + una card per essa in [index.html](index.html), se il progetto apre un argomento nuovo.
 
 ## Licenza
 
