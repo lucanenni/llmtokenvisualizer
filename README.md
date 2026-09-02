@@ -85,6 +85,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [hash-table-visualizer](hash-table-visualizer/) — come trovare un dato in un colpo solo, quasi sempre — e cosa succede quando due chiavi diverse finiscono nello stesso posto.
 - [git-branching-explorer](git-branching-explorer/) — il grafo dei commit, un branch alla volta: cosa succede davvero con commit, branch, checkout e merge.
 - [priority-queue-heap-explorer](priority-queue-heap-explorer/) — un min-heap binario, come array e come albero allo stesso tempo: guarda inserimento ed estrazione del minimo passo per passo.
+- [trie-explorer](trie-explorer/) — la struttura dati dietro l'autocompletamento: digita un prefisso e guarda il percorso corrispondente illuminarsi dal vivo.
 
 ## Come contribuire un nuovo progetto
 
