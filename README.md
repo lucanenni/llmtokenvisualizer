@@ -33,6 +33,7 @@ L'indice online è organizzato per argomento: la home page mostra le categorie, 
 - [cones-rods-explorer](cones-rods-explorer/) — perché bastano tre colori per ingannare l'occhio umano — un pixel non riproduce mai la luce vera.
 - [color-palette-explorer](color-palette-explorer/) — come si costruiscono combinazioni di colori che stanno bene insieme — e come si verifica se sono leggibili.
 - [qr-barcode-explorer](qr-barcode-explorer/) — come si impacchetta del testo in barre o quadratini — e la differenza tra rilevare un errore e correggerlo.
+- [baudot-album-cover-explorer](baudot-album-cover-explorer/) — un vero easter egg discografico: la copertina di X&Y dei Coldplay traduce il titolo in blocchi colorati col codice Baudot.
 
 ### 🌐 Reti e sicurezza
 
